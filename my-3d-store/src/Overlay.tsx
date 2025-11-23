@@ -67,7 +67,7 @@ export const Overlay = () => {
             <button 
                 className="snipcart-add-item"
                 data-item-id="aurora-lounge"
-                data-item-price="14999"
+                data-item-price="149999"
                 data-item-url="/" 
                 data-item-description="Norwegian Oak Lounge Chair"
                 data-item-image="https://via.placeholder.com/150"
