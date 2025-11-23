@@ -33,7 +33,7 @@ export const Overlay = () => {
       <section style={{ ...sectionStyle, justifyContent: 'center' }}>
         <div style={{ textAlign: 'center' }}>
           <h1 style={h1Style}>Nordlys Møbler.</h1>
-          <p style={pStyle}>SCANDINAVIAN TEST SIMPLICITY.</p>
+          <p style={pStyle}>SCANDINAVIAN SIMPLICITY.</p>
         </div>
       </section>
 
