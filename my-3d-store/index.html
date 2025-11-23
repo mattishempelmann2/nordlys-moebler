@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nordlys Møbler</title>
+
+    <!-- 1. ADD FONTS (For the Apple look) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;800&display=swap" rel="stylesheet">
+    
+    <!-- 2. ADD SNIPCART CSS -->
+    <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+
+    <!-- 3. ADD SNIPCART SCRIPT -->
+    <script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
+    
+    <!-- 4. ADD SNIPCART CONFIG DIV 
+         Paste your API Key inside the quotes below: data-api-key="..."
+    -->
+    <div hidden id="snipcart" data-api-key="MTkzMDYzODgtZTVjMy00ZDE5LWFlNzYtMDMxNGJkMDNjYjNjNjM4OTk1MTM4MTcxMDc1NzAy" data-config-modal-style="side"></div>
+  </body>
+</html>

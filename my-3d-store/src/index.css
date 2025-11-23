@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 1. Force the page to be full height */
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  overflow: hidden; /* Prevents double scrollbars */
+}
+
+/* 2. Fallback text style */
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: white;
+}
