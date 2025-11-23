@@ -61,7 +61,7 @@ export const Overlay = () => {
           textAlign: 'center'
         }}>
             <h2 style={{ fontSize: '2.5rem', fontWeight: 'bold', color: 'white', margin: '0 0 10px 0' }}>The Aurora Lounge</h2>
-            <p style={{ fontSize: '1.2rem', color: '#86868b', marginBottom: '30px' }}>From 14,999 NOK</p>
+            <p style={{ fontSize: '1.2rem', color: '#86868b', marginBottom: '30px' }}>From 149,999 NOK</p>
             
             {/* SNIPCART BUTTON (Styled) */}
             <button 

@@ -58,7 +58,7 @@ export const Configurator = ({ onBack }: { onBack: () => void }) => {
         <button
             className="snipcart-add-item"
             data-item-id="modern-chair-custom"
-            data-item-price="499.00"
+            data-item-price="49999.00"
             data-item-url="/"
             data-item-description="Custom configured modern chair"
             data-item-image="https://via.placeholder.com/150"
@@ -81,7 +81,7 @@ export const Configurator = ({ onBack }: { onBack: () => void }) => {
             onMouseOver={(e) => e.currentTarget.style.transform = "scale(1.02)"}
             onMouseOut={(e) => e.currentTarget.style.transform = "scale(1)"}
         >
-            Add to Cart - $499.00
+            Add to Cart - Kr49999.00
         </button>
 
       </div>
