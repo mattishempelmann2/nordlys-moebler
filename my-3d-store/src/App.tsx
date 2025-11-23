@@ -48,7 +48,7 @@ function App() {
             boxShadow: '0 10px 30px rgba(0,0,0,0.5)'
           }}
         >
-          <span>✨ Customize This Product</span>
+          <span>Customize This Product</span>
         </button>
       </div>
 
