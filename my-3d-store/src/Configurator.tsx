@@ -43,7 +43,7 @@ export const Configurator = ({ onBack }: { onBack: () => void }) => {
                 <h1 style={{ color: "black", fontSize: "2rem", margin: "0 0 5px 0" }}>Modern Chair</h1>
                 <p style={{ color: "gray", margin: 0 }}>Selected: <strong>{colorName}</strong></p>
             </div>
-            <h2 style={{ color: "black", fontSize: "1.5rem", margin: 0 }}>$499.00</h2>
+            <h2 style={{ color: "black", fontSize: "1.5rem", margin: 0 }}>Kr49999.00</h2>
         </div>
         
         <h3 style={{ margin: "0 0 10px 0", fontSize: "1rem", color: "#333" }}>Choose Fabric</h3>
