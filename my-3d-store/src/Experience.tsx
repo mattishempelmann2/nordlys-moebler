@@ -61,7 +61,7 @@ export const Experience = () => {
 
   // Responsive Scale
   // Adjust '1.5' depending on how big your model was exported
-  const meshScale = isMobile ? 1.0 : 2.0;
+  const meshScale = isMobile ? 0.5 : 1.0;
 
   return (
     <>
